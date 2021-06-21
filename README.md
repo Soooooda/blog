@@ -1,4 +1,4 @@
-# Github Pages Blog
+# 个人博客
 
 博客首页
 
