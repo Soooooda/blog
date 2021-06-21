@@ -4,4 +4,5 @@ title: "Welcome to my blog"
 
 # 博客首页
 
-I'm glad you are here. I plan to talk about ...
+* Try fixing things...
+* don't know how to update
