@@ -1,5 +1,5 @@
 ---
-title: "Technical Blog"
+title: "A Technical Blog"
 ---
 
 * 一点一点把notion上的笔记搬运来这里。
